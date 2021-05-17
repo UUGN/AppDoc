@@ -15,3 +15,10 @@
 - ViewBinding
 - Gson
 - Picasso
+- Firebase
+
+
+## Room 테이블 구조
+
+
+## Firebase 테이블 구조
